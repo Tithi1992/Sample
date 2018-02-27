@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="132.2" tests="1" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="PROCESSOR_ARCHITECTURE" value="x86"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="LOGONSERVER" value="\\PDC"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_45\jre"/>
+    <property name="ROOT_BUILD_CAUSE" value="MANUALTRIGGER"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="VS110COMNTOOLS" value="C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_45\jre\lib\endorsed"/>
+    <property name="PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\PowerShell\Modules\"/>
+    <property name="=::" value="::\"/>
+    <property name="USERDOMAIN" value="CYGNET"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.version" value="1.8.0_45"/>
+    <property name="JOB_NAME" value="Job_with_GIT"/>
+    <property name="COMPUTERNAME" value="CIPL-8PC190"/>
+    <property name="windows_tracing_logfile" value="C:\BVTBin\Tests\installpackage\csilogfile.log"/>
+    <property name="ANDROID_HOME" value="D:\SDK\android-sdk"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_CAUSE" value="MANUALTRIGGER"/>
+    <property name="user.name" value="tyshah"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\Windows"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 58 Stepping 9, GenuineIntel"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\tyshah\AppData\Local"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/Job_with_GIT/2/display/redirect?page=changes"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="PROCESSOR_ARCHITEW6432" value="AMD64"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="BUILD_TAG" value="jenkins-Job_with_GIT-2"/>
+    <property name="windows_tracing_flags" value="3"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\apache-maven-3.5.0-bin\apache-maven-3.5.0 C:\Users\tyshah\.jenkins\war\WEB-INF\lib\remoting-3.14.jar C:\Users\tyshah\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.11.jar C:\Users\tyshah\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.11.jar 49389"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="71a1851f71896237"/>
+    <property name="=D:" value="D:\New Jenkins"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="Path" value="C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;d:\app\tyshah\product\11.2.0\client_3\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Skype\Phone\;C:\Windows\System32;C:\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\nodejs\;C:\TestingWhiz Enterprise Edition\plugins\com.cygnet.autotest_5.3.0\libs;C:\Program Files\Java\jdk1.8.0_45\bin;D:\apache-ant-1.9.6-bin\apache-ant-1.9.6\bin;C:\Windows\System32;D:\SDK\android-sdk\tools;D:\SDK\android-sdk\platform-tools;C:\Windows\System32;C:\Program Files\Microsoft VS Code\bin;C:\Users\tyshah\AppData\Roaming\npm"/>
+    <property name="java.io.tmpdir" value="C:\Users\tyshah\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\tyshah\AppData\Roaming"/>
+    <property name="user.language" value="en"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/Job_with_GIT/2/"/>
+    <property name="M2_HOME" value="C:\apache-maven-3.5.0-bin\apache-maven-3.5.0"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="BUILD_DISPLAY_NAME" value="#2"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="ANSICON" value="80x300 (80x25)"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="HUDSON_SERVER_COOKIE" value="71a1851f71896237"/>
+    <property name="MAVEN_HOME" value="C:\apache-maven-3.5.0-bin\apache-maven-3.5.0"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="maven3.interceptor.common" value="C:\Users\tyshah\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.11.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="BUILD_TIMESTAMP" value="27_Feb_2018_05_09_PM"/>
+    <property name="HOMEPATH" value="\Users\tyshah"/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="FP_NO_HOST_CHECK" value="NO"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="2"/>
+    <property name="maven3.interceptor" value="C:\Users\tyshah\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.11.jar"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_45\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\apache-maven-3.5.0-bin\apache-maven-3.5.0/bin;C:\Program Files\Java\jdk1.8.0_45/bin;C:\Ruby22-x64\bin;C:\ProgramData\Oracle\Java\javapath;d:\app\tyshah\product\11.2.0\client_3\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Skype\Phone\;C:\Windows\System32;C:\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\nodejs\;C:\TestingWhiz Enterprise Edition\plugins\com.cygnet.autotest_5.3.0\libs;C:\Program Files\Java\jdk1.8.0_45\bin;D:\apache-ant-1.9.6-bin\apache-ant-1.9.6\bin;C:\Windows\System32;D:\SDK\android-sdk\tools;D:\SDK\android-sdk\platform-tools;C:\Windows\System32;C:\Program Files\Microsoft VS Code\bin;C:\Users\tyshah\AppData\Roaming\npm;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="POM_GROUPID" value="WebAutomation"/>
+    <property name="POM_ARTIFACTID" value="WebAutomation"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/Job_with_GIT/"/>
+    <property name="ANT_HOME" value="D:\apache-ant-1.9.6-bin\apache-ant-1.9.6"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/Job_with_GIT/2/display/redirect"/>
+    <property name="JENKINS_HOME" value="C:\Users\tyshah\.jenkins"/>
+    <property name="BUILD_ID" value="2"/>
+    <property name="TEMP" value="C:\Users\tyshah\AppData\Local\Temp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_45\jre\bin"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="3a09"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="HUDSON_HOME" value="C:\Users\tyshah\.jenkins"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="C:\apache-maven-3.5.0-bin\apache-maven-3.5.0/bin"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="BUILD_CAUSE_MANUALTRIGGER" value="true"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_45"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="USERPROFILE" value="C:\Users\tyshah"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/Job_with_GIT/display/redirect"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_45\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\tyshah"/>
+    <property name="USERNAME" value="tyshah"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="USERDNSDOMAIN" value="CYGNET.COM"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="user.dir" value="E:\Cucumber Practice\WebAutomation"/>
+    <property name="maven.conf" value="C:\apache-maven-3.5.0-bin\apache-maven-3.5.0\conf"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\Users\tyshah\AppData\Local\Temp"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vm.version" value="25.45-b02"/>
+    <property name="java.class.path" value="C:\Users\tyshah\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.11.jar;C:\apache-maven-3.5.0-bin\apache-maven-3.5.0\boot\plexus-classworlds-2.5.2.jar;C:\apache-maven-3.5.0-bin\apache-maven-3.5.0/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="ANSICON_DEF" value="7"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="WORKSPACE" value="C:\Users\tyshah\.jenkins\jobs\Job_with_GIT\workspace"/>
+    <property name="ComSpec" value="C:\Windows\system32\cmd.exe"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="SystemRoot" value="C:\Windows"/>
+    <property name="CommonProgramFiles" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.runtime.version" value="1.8.0_45-b15"/>
+    <property name="ProgramFiles" value="C:\Program Files (x86)"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_45\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_45\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_45\jre\classes"/>
+    <property name="ROOT_BUILD_CAUSE_MANUALTRIGGER" value="true"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_45/bin"/>
+    <property name="=ExitCode" value="00000000"/>
+    <property name="user.country" value="US"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="maven.home" value="C:\apache-maven-3.5.0-bin\apache-maven-3.5.0"/>
+    <property name="JOB_BASE_NAME" value="Job_with_GIT"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="WebAutomation"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+  </properties>
+  <testcase name="TC1" classname="com.cipl.webtests.LoginTest" time="131.524">
+    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//input[@id=&apos;usernam&apos;]&quot;}&#10;  (Session info: chrome=64.0.3282.167)&#10;  (Driver info: chromedriver=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.5.3&apos;, revision: &apos;a88d25fe6b&apos;, time: &apos;2017-08-29T12:42:44.417Z&apos;&#10;System info: host: &apos;CIPL-8PC190&apos;, ip: &apos;172.17.17.72&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_45&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1), userDataDir=C:\Users\tyshah\AppData\Local\Temp\scoped_dir6212_22087}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=64.0.3282.167, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]&#10;Session ID: 34232262e444034174fc80d374690b2a&#10;*** Element info: {Using=xpath, value=//input[@id=&apos;usernam&apos;]}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='usernam']"}
+  (Session info: chrome=64.0.3282.167)
+  (Driver info: chromedriver=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'CIPL-8PC190', ip: '172.17.17.72', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1), userDataDir=C:\Users\tyshah\AppData\Local\Temp\scoped_dir6212_22087}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=64.0.3282.167, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 34232262e444034174fc80d374690b2a
+*** Element info: {Using=xpath, value=//input[@id='usernam']}
+	at com.cipl.webtests.LoginTest.TC1(LoginTest.java:20)
+</failure>
+    <system-err><![CDATA[Starting ChromeDriver 2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1) on port 38516
+Only local connections are allowed.
+Feb 27, 2018 5:09:39 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+</testsuite>
